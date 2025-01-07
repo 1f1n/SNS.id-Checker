@@ -14,7 +14,7 @@ pip install -r requirements.txt
 `
 <br><br>
 `
-Add usernames to usernames.txt
+Add usernames to domains.txt
 `
 <br><br>
 `
